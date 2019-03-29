@@ -1,6 +1,6 @@
 from history import hist
 
 
-histories = hist()
+hist = hist()
 
-print(histories['aapl'])
+print(hist)
